@@ -1,4 +1,4 @@
-<img src="hemlo" alt= “stock-vector-coding-programmer-laptop-internet-work-concept-hand-drawn-hand-of-programmer-on-laptop-with-1225469854-transformed.jpeg” width="30" height="20">
+<img src="stock-vector-coding-programmer-laptop-internet-work-concept-hand-drawn-hand-of-programmer-on-laptop-with-1225469854-transformed.jpeg" alt= “ width="30" height="20">
 <h1 style="text-align: center;"> Hi 👋 , I am Navanil Nath  </h1>
 <h3 align="center;">   A passionate Full Stack developer and a CS undergrad from India </h3>
 <!--
