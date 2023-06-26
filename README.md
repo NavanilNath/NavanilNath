@@ -1,3 +1,4 @@
+![cover photo] (stock-vector-coding-programme
 <h1 style="text-align: center;"> Hi 👋 , I am Navanil Nath  </h1>
 <h3 align="center;">   A passionate Full Stack developer and a CS undergrad from India </h3>
 <!--
