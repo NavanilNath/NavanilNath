@@ -26,7 +26,7 @@
      <a href="https://www.python.org" target="_blank">&nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
         <a href="https://www.java.com/en/" target="_blank">&nbsp; <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
      
-     
+![Navanil's GitHub stats](https://github-readme-stats.vercel.app/api?username=NavanilNath&show_icons=true&theme=transparent)
      
   
 
