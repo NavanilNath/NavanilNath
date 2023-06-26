@@ -11,5 +11,7 @@
 - 📫 How to reach me: **navanilnath.exe@gmail.com**
 - ⚡ Fun fact: Facebook has more monthly active users than the population of any country on Earth.
 <h3 align="left"><b>Connect with me:</b> </h3>
- <a href="https://twitter.com/Navanil_exe" target="blank"><img align="center" src="file:///C:/Users/Dell/Downloads/logo-twitter-png-5860.png" alt="Navanil_exe" height="30" width="30" />&nbsp;</a>
+<p align="left">
+ <a href="https://twitter.com/Navanil_exe" target="blank"><img align="center" src="logo-twitter-png-5860.png" alt="Navanil_exe" height="30" width="35" />&nbsp;</a>
+ 
 
